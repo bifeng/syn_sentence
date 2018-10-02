@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 '''
+fork from: https://github.com/yaleimeng/Final_word_Similarity
 @author: Yalei Meng
 @contact: yaleimeng@sina.com
 @license: (C) Copyright 2017, HUST Corporation Limited.
